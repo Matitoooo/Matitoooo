@@ -1,4 +1,5 @@
-<!-- Bannière ou phrase d’accueil -->
+![banner](https://github.com/Matitoooo/Matitoooo/blob/main/banner.png)
+
 # 👋 Salut, je suis Mateo Groux !
 
 ### 🍏 En formation Extended Apple Foundation Program | Apprenti développeur iOS (Swift & SwiftUI)
