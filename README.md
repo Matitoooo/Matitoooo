@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Matitoooo/Matitoooo/main/banner.png" width="1000" alt="Bannière Mateo Groux">
 </p>
-![banner](https://github.com/Matitoooo/Matitoooo/blob/main/banner.png)
 
 # 👋 Salut, je suis Mateo Groux !
 
